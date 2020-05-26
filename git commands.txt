@@ -1,0 +1,43 @@
+git init
+
+git remote add origin "https://github.com/pramodkase27/angular-testing.git"
+
+
+git config --global http.proxy http[s]://username:password@proxy.krcl.com:3128
+%40
+
+ghl_vivek@hotmail.com
+
+
+git status
+
+git add file1.txt
+
+git status
+
+$ git commit -m "adding in local repository"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'SA Pramod@SA_Pramod.(none)')
+
+SA Pramod@SA_Pramod MINGW64 /d/Git Test (master)
+$ git config --global user.email "pramodkase27@gmail.com"
+
+SA Pramod@SA_Pramod MINGW64 /d/Git Test (master)
+$ git config --global user.name "pramodkase"
+
+SA Pramod@SA_Pramod MINGW64 /d/Git Test (master)
+$ git commit -m "adding in local repository"
+[master e70c2cc] adding in local repository
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file1.txt
+
